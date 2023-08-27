@@ -1,0 +1,14 @@
+userName: atulchavan_6c0VQ8
+accessKey: s4EHqF8Dyp2QhdBJFKaE
+framework: testng
+platforms:
+  - deviceName: iPhone 12 Mini
+    osVersion: 16
+    browserName: safari
+    deviceOrientation: portrait
+  - deviceName: Google Pixel 7
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+networkLogs: true
+consoleLogs: errors
